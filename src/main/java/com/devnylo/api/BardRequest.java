@@ -20,17 +20,17 @@ public class BardRequest {
         // O ENCONDER QUE VAI TRANSFORMAR A PERGUNTA EM UM PADRÃO HTTPS URL.
         String codificarPergunta = URLEncoder.encode(pergunta, "UTF-8");
 
-        // CONSTANTE DESTINADA AO COOKIE 1PSID
-        final String _1PSID = "bwifxaLbTj6p08FftDY0VNVRxCft9lRQ-nkWBAfocj2ej1Lb8qw2rpswLxSC8XveZLcR1w.";
+        // CONSTANTE DESTINADA AO COOKIE 1PSID [VOCÊ PRECISARÁ TROCAR A CHAVE DE TEMPOS EM TEMPOS.]
+        final String _1PSID = "";
 
         // CONSTANTE DESTINADA AO COOKIE 1PSIDTS
-        final String _1PSIDTS = "sidts-CjIB3e41hbGsr9xJgqJiiGwvWE7y3xN9WJ0D6TifWWQS6gS5cUdYydxMb1Otv4Xka4BtexAA";
+        final String _1PSIDTS = "";
 
         // CONSTANTE DESTINADA AO COOKIE 1PSIDCC
-        final String _1PSIDCC = "ACA-OxOMTZLLozzRhJUACGphNQ1Ck-KxHrYYRghlzVCNGysHDa7GbCDLEmAAecjZeqrpV_Uu5Q";
+        final String _1PSIDCC = "";
 
         // CONSTANTE DESTINADA A API KEY
-        final String APIKEY = "de0a7bf1a0mshc9c86775ad2a249p16fbc3jsn9ba083d658f4";
+        final String APIKEY = "";
 
         // ALGORITMO QUE IRÁ FAZER A REQUISIÇÃO A API.
         HttpRequest request = HttpRequest.newBuilder()
