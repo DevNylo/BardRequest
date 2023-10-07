@@ -18,6 +18,8 @@ Algoritmo para efetuar requisições a API do Google Bard.
           __Secure-1PSIDTS
           __Secure-1PSIDCC
 
+<img src="src/main/resources/assets/variaveis.png">
+
 6 - Volte ao RapidAPI, pesquise por Google Bard API, em Endpoints procure pelo menu expansível "Header Parameters" copie sua API KEY e coloque na constante destinada no algoritmo.
 
 7 - Faça bom uso!
@@ -25,9 +27,12 @@ Algoritmo para efetuar requisições a API do Google Bard.
 ### Notas:
 
 - Essa API permite apenas 50 requisições por mês em seu modelo gratuito, então use com sabedoria. Aqui está a tabela de preços:
+
+<img src="src/main/resources/assets/tabela-precos.png">
+
 - A resposta não foi tratada, então ainda está vindo em formato JSON, use da forma que achar melhor.
 - Essa API pode ser usada em qualquer linguagem, na documentação você encontra diversos exemplos.
-- Qualquer dúvida, entre em contato comigo, ha e me deixe os créditos :)
+- Qualquer dúvida, entre em contato comigo. Ha e me deixe os créditos :)
 
 
 ## ~ DEVNYLO 
