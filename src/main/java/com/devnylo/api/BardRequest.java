@@ -1,6 +1,6 @@
 package com.devnylo.api;
 
-import java.io.IOException;;
+import java.io.IOException;
 import java.net.URI;
 import java.net.URLEncoder;
 import java.net.http.HttpClient;
